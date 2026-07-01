@@ -47,7 +47,7 @@ def video_to_frames(video_path, output_folder=None, every=1, img_format="jpg"):
 
 
 def main():
-    video_path = "input_video.mp4"  # Replace with your video file path
+    video_path = input("Enter the path to the video file: ")
     output_folder = None  # Optional: specify output folder
 
     video_to_frames(video_path, output_folder)

@@ -1,0 +1,12 @@
+Riding_scooty
+open_cars_door
+closing_cars_door
+person_getting_out_of_car
+person_getting_into_car
+person_getting_into_car_from_back_seat
+person_getting_out_of_car_from_back_seat
+person_getting_into_car_from_front_seat
+person_getting_out_of_car_from_front_seat
+person_riding_bike
+person_riding_bicycle
+person_walking

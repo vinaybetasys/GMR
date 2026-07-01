@@ -1,0 +1,22 @@
+path: C:\Users\91702\Desktop\GMR\GMR\dataset
+train: images
+val: images
+
+names:
+  0: Riding_scooty
+  1: open_cars_door
+  2: closing_cars_door
+  3: person_getting_out_of_car
+  4: person_getting_into_car
+  5: person_getting_into_car_from_back_seat
+  6: person_getting_out_of_car_from_back_seat
+  7: person_getting_into_car_from_front_seat
+  8: person_getting_out_of_car_from_front_seat
+  9: person_riding_bike
+  10: person_riding_bicycle
+  11: person_walking
+  12: car
+  13: person
+  14: scooty
+  15: Bike
+  16: Maxi
